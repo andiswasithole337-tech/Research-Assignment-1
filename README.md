@@ -1,2 +1,6 @@
 # Research-Assignment-1
 This was a research to answer questions about data fundamentals, Artificial intelligence &amp; machine learning, APIs, tools &amp; developer concepts, data ethics, governance &amp; careers
+This repository holds my first assignment for Data Fundamentals, which covers important ideas in data, AI, machine learning, APIs, and data ethics. I looked into how data is organized, stored, and processed during the assignment. I also learned about how AI and machine learning use data to make predictions and do tasks automatically. I also learned about important developer ideas like APIs, JSON, cloud computing, and version control, which are all important for making and connecting software systems.
+One of the best things about this assignment was learning how data moves through systems, from gathering and storing it to analyzing it and making decisions. I also learned how important data quality, governance, and ethics are, especially how bad or biased data can hurt AI systems. I also learned more about the different jobs in the data field, like data analysts, data scientists, and engineers. 
+
+This assignment helped me learn more about data and technology, helped me understand how they work in the real world.
